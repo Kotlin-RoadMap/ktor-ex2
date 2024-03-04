@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5267fccb-2e1e-4e96-a77b-305d3df3d809" name="Changes" comment="Added implementation for challenge #3">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/kotlin/com/learning/Application.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/kotlin/com/learning/BookRoutes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/kotlin/com/learning/DataManagerMongoDB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/kotlin/com/learning/DataModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/kotlin/com/learning/plugins/HTTP.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/kotlin/com/learning/plugins/Monitoring.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/kotlin/com/learning/plugins/Routing.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/kotlin/com/learning/plugins/Security.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/kotlin/com/learning/plugins/Serialization.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/kotlin/com/learning/plugins/Templating.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/scripts/curl_sortedbooks.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/scripts/delete_book.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/scripts/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/scripts/get_books.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/scripts/new_book.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/scripts/update_book.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/kotlin/Main.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2cct8xLrfrWTIkPGFYJJYL2bYeW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "android.gradle.sync.needed": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/quinti/Ktor/ktor-ex2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/com/example/ktor" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ktor-ex1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ktor-ex1" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5267fccb-2e1e-4e96-a77b-305d3df3d809" name="Changes" comment="" />
+      <created>1708422538554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708422538554</updated>
+      <workItem from="1708422539709" duration="763000" />
+      <workItem from="1708587704549" duration="484000" />
+      <workItem from="1708589163245" duration="269000" />
+      <workItem from="1708955566657" duration="1632000" />
+      <workItem from="1709100471310" duration="1201000" />
+      <workItem from="1709444088801" duration="1188000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added implmentation for first Ktor challenge">
+      <option name="closed" value="true" />
+      <created>1708422852318</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708422852318</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added implmentation for first Ktor challenge">
+      <option name="closed" value="true" />
+      <created>1708422877824</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708422877824</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added implmentation for first Ktor challenge">
+      <option name="closed" value="true" />
+      <created>1708423001526</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708423001526</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added implmentation for first Ktor challenge">
+      <option name="closed" value="true" />
+      <created>1708423010641</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708423010641</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added implmentation for first Ktor challenge">
+      <option name="closed" value="true" />
+      <created>1708423063160</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708423063160</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added implementation for challenge #2">
+      <option name="closed" value="true" />
+      <created>1708587863202</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708587863202</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added implementation for challenge #3">
+      <option name="closed" value="true" />
+      <created>1708956919101</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708956919101</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added implmentation for first Ktor challenge" />
+    <MESSAGE value="Added implementation for challenge #2" />
+    <MESSAGE value="Added implementation for challenge #3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added implementation for challenge #3" />
+  </component>
+</project>
