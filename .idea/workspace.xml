@@ -5,26 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5267fccb-2e1e-4e96-a77b-305d3df3d809" name="Changes" comment="Added implementation for challenge #3">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/kotlin/com/learning/Application.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/kotlin/com/learning/BookRoutes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/kotlin/com/learning/DataManagerMongoDB.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/kotlin/com/learning/DataModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/kotlin/com/learning/plugins/HTTP.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/kotlin/com/learning/plugins/Monitoring.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/kotlin/com/learning/plugins/Routing.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/kotlin/com/learning/plugins/Security.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/kotlin/com/learning/plugins/Serialization.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/kotlin/com/learning/plugins/Templating.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/scripts/curl_sortedbooks.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/scripts/delete_book.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/scripts/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/scripts/get_books.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/scripts/new_book.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/scripts/update_book.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/.idea/kotlinc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
