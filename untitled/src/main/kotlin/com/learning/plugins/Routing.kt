@@ -19,12 +19,14 @@ fun Application.configureRouting() {
   }
   routing {
     books()
+    loginView()
+    cart()
+    receipt()
 
     get("/") {
       call.respondText("Hello World!")
     }
 
-    // Static plugin. Try to access `/static/index.html`
     static("/static") {
       resources("static")
     }

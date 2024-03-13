@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5267fccb-2e1e-4e96-a77b-305d3df3d809" name="Changes" comment="Added implementation for challenge #3">
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="5267fccb-2e1e-4e96-a77b-305d3df3d809" name="Changes" comment="Added implementation for challenge #6 - K6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/.idea/gradle.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
     <option name="UPDATE_TYPE" value="REBASE" />
@@ -54,22 +58,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "android.gradle.sync.needed": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/quinti/Ktor/ktor-ex2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;android.gradle.sync.needed&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;test&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/quinti/Ktor/ktor-ex2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/kotlin/com/example/ktor" />
@@ -104,6 +108,9 @@
       <workItem from="1708955566657" duration="1632000" />
       <workItem from="1709100471310" duration="1201000" />
       <workItem from="1709444088801" duration="1188000" />
+      <workItem from="1709644468564" duration="599000" />
+      <workItem from="1709719497676" duration="941000" />
+      <workItem from="1709848055661" duration="239000" />
     </task>
     <task id="LOCAL-00001" summary="Added implmentation for first Ktor challenge">
       <option name="closed" value="true" />
@@ -161,7 +168,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708956919101</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added implementation for challenge #6 - K6">
+      <option name="closed" value="true" />
+      <created>1709542668444</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709542668444</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added implementation for challenge #6 - K6">
+      <option name="closed" value="true" />
+      <created>1709543083675</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709543083675</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,7 +201,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="test" />
                       </list>
                     </value>
                   </entry>
@@ -194,6 +217,7 @@
     <MESSAGE value="Added implmentation for first Ktor challenge" />
     <MESSAGE value="Added implementation for challenge #2" />
     <MESSAGE value="Added implementation for challenge #3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added implementation for challenge #3" />
+    <MESSAGE value="Added implementation for challenge #6 - K6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added implementation for challenge #6 - K6" />
   </component>
 </project>
